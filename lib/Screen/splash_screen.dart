@@ -10,7 +10,7 @@ class Splashscreen extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       home:Scaffold(
-        backgroundColor: Color.fromARGB(255, 224, 218, 158),
+        backgroundColor: Color.fromARGB(255, 158, 185, 224),
         body: Center(
           child: Text("SPLASH"),
         ),
